@@ -7130,6 +7130,7 @@ dependencies = [
  "git",
  "gpui",
  "language",
+ "log",
  "menu",
  "project",
  "schemars",
